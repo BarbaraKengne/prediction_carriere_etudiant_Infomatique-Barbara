@@ -6,7 +6,7 @@ En tant qu'étudiante en informatique moi-même, ce dataset m'a tout de suite in
 
 Ce projet est différent de mes deux précédents (NLP) — ici les données sont **tabulaires et structurées**.
 
----
+
 
 ## Ce que fait ce projet
 
@@ -30,14 +30,14 @@ Le Gradient Boosting est le meilleur modèle avec 86% d'accuracy et 91% en valid
 
 **Observation clé :** le domaine d'intérêt est de loin la feature la plus prédictive, devant le GPA et les compétences techniques.
 
----
+
 
 ## Fichiers
 
 - `student_career_barbara.ipynb` — notebook complet
 - `cs_students.csv` — dataset (180 étudiants en informatique)
 
----
+
 
 ## Lancer le projet
 
@@ -50,7 +50,7 @@ jupyter notebook student_career_barbara.ipynb
 
 "Computer Science Students Performance Dataset" — disponible sur [Kaggle](https://www.kaggle.com/datasets/zahra-nusrat/cs-students).
 
----
+
 
 ## Ce que j'aimerais faire ensuite
 
@@ -58,7 +58,7 @@ jupyter notebook student_career_barbara.ipynb
 - Tester sur un dataset plus grand avec des notes par matière
 - Comparer avec une approche deep learning sur plus de données
 
----
+
 
 ## Auteure
 
